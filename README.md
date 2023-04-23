@@ -1,5 +1,3 @@
-<img src="pic.png" />
-
 # GrayHatZone
 
 - Programming
