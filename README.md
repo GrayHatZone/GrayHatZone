@@ -1,4 +1,4 @@
-<img src="" />
+<img src="pic.png" />
 
 # GrayHatZone
 
