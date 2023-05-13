@@ -25,5 +25,7 @@ Thanks for your support :)
 
 ## Contact Me
 
-#### [📧 Email](mailto:d4rk-cl0ud@hotmail.com)
-#### [🤖 Telegram Bot](https://t.me/GrayHatZoneBot)
+<a href="https://t.me/grayhatzonebot"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+<a href="mailto: d4rk-cl0ud@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+
