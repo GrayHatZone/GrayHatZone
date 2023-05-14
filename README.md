@@ -2,7 +2,7 @@
 
 - Gray Hat Hacker
 - Programmer
-- GNU/Linux and OpenSource fan
+- GNU/Linux and OpenSource Fan
 
 <p align="center"><a href="https://t.me/GrayHatZone"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" width=150 height=150 /><br/><br/>Telegram Channel</a></p>
 
